@@ -1,0 +1,10 @@
+public class Main {
+ public static void main(String[] args) {
+ System.out.println(" MEU PERFIL PROFISSIONAL
+Nome:Rafael Camargo Constantino
+Cidade: porto Alegre idade: 27anos
+Formação: Técnico em informática
+Objetivo Profissional: Realizar uma graduação em Análise e Desenvolvimento de Sistemas, para aprimorar meus conhecimentos na área de tecnologia da informação.
+********************************");
+ }
+}
