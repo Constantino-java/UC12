@@ -1,5 +1,52 @@
+Aula pratica 01 - UC12
+
+Qual componente executa programas Java? O componente que executa programas Java é a Java Virtual Machine (JVM).
+
+
+Qual componente fornece ambiente de execução? O componente que fornece o ambiente de execução para programas Java é a Java Runtime Environment (JRE). A JRE inclui a JVM, bibliotecas de classes e outros arquivos necessários para executar aplicativos Java.
+
+
+Qual componente fornece ferramentas de desenvolvimento? O componente que fornece ferramentas de desenvolvimento para programas Java é o Java Development Kit (JDK). O JDK inclui a JRE, compiladores, depuradores e outras ferramentas necessárias para desenvolver aplicativos Java.
+
+
+
+Aula pratica 02 - UC12
+
 public class Aula06 {
     public static void main(String[] args) {
         System.out.println("Olá UC12!");
     }
 }
+
+
+Aula pratica 04 - UC12
+
+Identificar os componentes principais do codigo Java:
+
+Classe: Aula06
+Método main: public static void main(String[] args)
+system.out.println("Olá UC12!")
+
+
+Aula pratica 05 - UC12
+Public class Aula06 {
+    public static void main(String[] args) {
+        System.out.println("Nome: Rafael constantino
+Cidade:porto alegre
+Curso:tecnico em informatica
+Turma:14330");
+    }
+}
+
+
+Desafio da aula - perfil do desenvolvedor
+
+public class Aula06 {
+    public static void main(String[] args) {
+        System.out.println("Nome: Rafael Constantino");
+        System.out.println("Cidade: Porto Alegre");
+        System.out.println("Curso: Técnico em Informática");
+        System.out.println("Objetivo: realizar o curso de técnico em informática e me tornar um desenvolvedor de software.");
+    }
+}
+
